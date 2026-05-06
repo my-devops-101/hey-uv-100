@@ -44,6 +44,16 @@ uv tool install ansible-core
 ```
 
 
+#### 往 uv tool 环境里加依赖
+
+```bash
+uv tool install ansible-core --with passlib
+```
+
+
+
+
+
 
 ## 问题（@TODO)
 
